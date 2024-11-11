@@ -84,37 +84,31 @@
       <DependentUpon>AddDepartment.vb</DependentUpon>
     </Compile>
     <Compile Include="AddDepartment.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddGroup.Designer.vb">
       <DependentUpon>AddGroup.vb</DependentUpon>
     </Compile>
     <Compile Include="AddGroup.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddClass.Designer.vb">
       <DependentUpon>AddClass.vb</DependentUpon>
     </Compile>
     <Compile Include="AddClass.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddSize.Designer.vb">
       <DependentUpon>AddSize.vb</DependentUpon>
     </Compile>
     <Compile Include="AddSize.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddStyle.Designer.vb">
       <DependentUpon>AddStyle.vb</DependentUpon>
     </Compile>
     <Compile Include="AddStyle.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddUoM.Designer.vb">
       <DependentUpon>AddUoM.vb</DependentUpon>
     </Compile>
     <Compile Include="AddUoM.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddColor.Designer.vb">
       <DependentUpon>AddColor.vb</DependentUpon>
@@ -126,91 +120,76 @@
       <DependentUpon>AddTax.vb</DependentUpon>
     </Compile>
     <Compile Include="AddTax.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddBank.Designer.vb">
       <DependentUpon>AddBank.vb</DependentUpon>
     </Compile>
     <Compile Include="AddBank.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddCreditCard.Designer.vb">
       <DependentUpon>AddCreditCard.vb</DependentUpon>
     </Compile>
     <Compile Include="AddCreditCard.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddMobileMoney.Designer.vb">
       <DependentUpon>AddMobileMoney.vb</DependentUpon>
     </Compile>
     <Compile Include="AddMobileMoney.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="ConnectionDatabase.Designer.vb">
       <DependentUpon>ConnectionDatabase.vb</DependentUpon>
     </Compile>
     <Compile Include="ConnectionDatabase.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddSuppplier.Designer.vb">
       <DependentUpon>AddSuppplier.vb</DependentUpon>
     </Compile>
     <Compile Include="AddSuppplier.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddCustomer.Designer.vb">
       <DependentUpon>AddCustomer.vb</DependentUpon>
     </Compile>
     <Compile Include="AddCustomer.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddFAccount.Designer.vb">
       <DependentUpon>AddFAccount.vb</DependentUpon>
     </Compile>
     <Compile Include="AddFAccount.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddFSubAccount.Designer.vb">
       <DependentUpon>AddFSubAccount.vb</DependentUpon>
     </Compile>
     <Compile Include="AddFSubAccount.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddSuppCat.Designer.vb">
       <DependentUpon>AddSuppCat.vb</DependentUpon>
     </Compile>
     <Compile Include="AddSuppCat.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddSysUser.Designer.vb">
       <DependentUpon>AddSysUser.vb</DependentUpon>
     </Compile>
     <Compile Include="AddSysUser.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddCurrency.Designer.vb">
       <DependentUpon>AddCurrency.vb</DependentUpon>
     </Compile>
     <Compile Include="AddCurrency.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddUserGroup.Designer.vb">
       <DependentUpon>AddUserGroup.vb</DependentUpon>
     </Compile>
     <Compile Include="AddUserGroup.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddModule.Designer.vb">
       <DependentUpon>AddModule.vb</DependentUpon>
     </Compile>
     <Compile Include="AddModule.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddFunction.Designer.vb">
       <DependentUpon>AddFunction.vb</DependentUpon>
     </Compile>
     <Compile Include="AddFunction.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="AboutSysUser.Designer.vb">
       <DependentUpon>AboutSysUser.vb</DependentUpon>
@@ -222,313 +201,256 @@
       <DependentUpon>FunctionAccess.vb</DependentUpon>
     </Compile>
     <Compile Include="FunctionAccess.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="ModuleAccess.Designer.vb">
       <DependentUpon>ModuleAccess.vb</DependentUpon>
     </Compile>
     <Compile Include="ModuleAccess.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditSetUpUserPassword.Designer.vb">
       <DependentUpon>EditSetUpUserPassword.vb</DependentUpon>
     </Compile>
     <Compile Include="EditSetUpUserPassword.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="SetUpUserPassword.Designer.vb">
       <DependentUpon>SetUpUserPassword.vb</DependentUpon>
     </Compile>
     <Compile Include="SetUpUserPassword.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditSysUser.Designer.vb">
       <DependentUpon>EditSysUser.vb</DependentUpon>
     </Compile>
     <Compile Include="EditSysUser.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterSysUsers.Designer.vb">
       <DependentUpon>MasterSysUsers.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterSysUsers.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditFunction.Designer.vb">
       <DependentUpon>EditFunction.vb</DependentUpon>
     </Compile>
     <Compile Include="EditFunction.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditModule.Designer.vb">
       <DependentUpon>EditModule.vb</DependentUpon>
     </Compile>
     <Compile Include="EditModule.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="SetUpFunctions.Designer.vb">
       <DependentUpon>SetUpFunctions.vb</DependentUpon>
     </Compile>
     <Compile Include="SetUpFunctions.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="SetUpModules.Designer.vb">
       <DependentUpon>SetUpModules.vb</DependentUpon>
     </Compile>
     <Compile Include="SetUpModules.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditUserGroup.Designer.vb">
       <DependentUpon>EditUserGroup.vb</DependentUpon>
     </Compile>
     <Compile Include="EditUserGroup.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterUserGroup.Designer.vb">
       <DependentUpon>MasterUserGroup.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterUserGroup.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSPriceList.Designer.vb">
       <DependentUpon>PoSPriceList.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSPriceList.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="ReportVStock.Designer.vb">
       <DependentUpon>ReportVStock.vb</DependentUpon>
     </Compile>
     <Compile Include="ReportVStock.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="FilterRStock.Designer.vb">
       <DependentUpon>FilterRStock.vb</DependentUpon>
     </Compile>
     <Compile Include="FilterRStock.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="CRStockItem.vb">
       <DependentUpon>CRStockItem.rpt</DependentUpon>
       <AutoGen>True</AutoGen>
-      <SubType>Component</SubType>
       <DesignTime>True</DesignTime>
     </Compile>
     <Compile Include="FilterRSaleItem.Designer.vb">
       <DependentUpon>FilterRSaleItem.vb</DependentUpon>
     </Compile>
     <Compile Include="FilterRSaleItem.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="FilterRSalePayment.Designer.vb">
       <DependentUpon>FilterRSalePayment.vb</DependentUpon>
     </Compile>
     <Compile Include="FilterRSalePayment.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="ReportVSalesPayment.Designer.vb">
       <DependentUpon>ReportVSalesPayment.vb</DependentUpon>
     </Compile>
     <Compile Include="ReportVSalesPayment.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="ReportVSalesItem.Designer.vb">
       <DependentUpon>ReportVSalesItem.vb</DependentUpon>
     </Compile>
     <Compile Include="ReportVSalesItem.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="ReportVSalesSummary.Designer.vb">
       <DependentUpon>ReportVSalesSummary.vb</DependentUpon>
     </Compile>
     <Compile Include="ReportVSalesSummary.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="FilterRSaleSummary.Designer.vb">
       <DependentUpon>FilterRSaleSummary.vb</DependentUpon>
     </Compile>
     <Compile Include="FilterRSaleSummary.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="CRSalePayment.vb">
       <DependentUpon>CRSalePayment.rpt</DependentUpon>
       <AutoGen>True</AutoGen>
-      <SubType>Component</SubType>
       <DesignTime>True</DesignTime>
     </Compile>
     <Compile Include="CRSaleItem.vb">
       <DependentUpon>CRSaleItem.rpt</DependentUpon>
       <AutoGen>True</AutoGen>
-      <SubType>Component</SubType>
       <DesignTime>True</DesignTime>
     </Compile>
     <Compile Include="CRContribution.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>CRContribution.rpt</DependentUpon>
-      <SubType>Component</SubType>
     </Compile>
     <Compile Include="CRContributionD.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>CRContributionD.rpt</DependentUpon>
-      <SubType>Component</SubType>
     </Compile>
     <Compile Include="CRSaleSummary.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>CRSaleSummary.rpt</DependentUpon>
-      <SubType>Component</SubType>
     </Compile>
     <Compile Include="EndOfDay.Designer.vb">
       <DependentUpon>EndOfDay.vb</DependentUpon>
     </Compile>
     <Compile Include="EndOfDay.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="CROrderReceipt.vb">
       <DependentUpon>CROrderReceipt.rpt</DependentUpon>
       <AutoGen>True</AutoGen>
-      <SubType>Component</SubType>
       <DesignTime>True</DesignTime>
     </Compile>
     <Compile Include="PoSSaleChange.Designer.vb">
       <DependentUpon>PoSSaleChange.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSSaleChange.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditPosSalePay.Designer.vb">
       <DependentUpon>EditPosSalePay.vb</DependentUpon>
     </Compile>
     <Compile Include="EditPosSalePay.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSSalePayments.Designer.vb">
       <DependentUpon>PoSSalePayments.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSSalePayments.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSCustomerBills.Designer.vb">
       <DependentUpon>PoSCustomerBills.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSCustomerBills.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditPosSaleOrderQnty.Designer.vb">
       <DependentUpon>EditPosSaleOrderQnty.vb</DependentUpon>
     </Compile>
     <Compile Include="EditPosSaleOrderQnty.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="CROrderBill.vb">
       <DependentUpon>CROrderBill.rpt</DependentUpon>
       <AutoGen>True</AutoGen>
-      <SubType>Component</SubType>
       <DesignTime>True</DesignTime>
     </Compile>
     <Compile Include="CROrderSlip.vb">
       <DependentUpon>CROrderSlip.rpt</DependentUpon>
       <AutoGen>True</AutoGen>
-      <SubType>Component</SubType>
       <DesignTime>True</DesignTime>
     </Compile>
     <Compile Include="PoSOrdersLookUp.Designer.vb">
       <DependentUpon>PoSOrdersLookUp.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSOrdersLookUp.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditPosOrderQnty.Designer.vb">
       <DependentUpon>EditPosOrderQnty.vb</DependentUpon>
     </Compile>
     <Compile Include="EditPosOrderQnty.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSSplashScreen.Designer.vb">
       <DependentUpon>PoSSplashScreen.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSSplashScreen.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSLogin.Designer.vb">
       <DependentUpon>PoSLogin.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSLogin.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSOrders.Designer.vb">
       <DependentUpon>PoSOrders.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSOrders.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="SetupPrinter.Designer.vb">
       <DependentUpon>SetupPrinter.vb</DependentUpon>
     </Compile>
     <Compile Include="SetupPrinter.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditSetUpFinYear.Designer.vb">
       <DependentUpon>EditSetUpFinYear.vb</DependentUpon>
     </Compile>
     <Compile Include="EditSetUpFinYear.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="SetupFinancialYear.Designer.vb">
       <DependentUpon>SetupFinancialYear.vb</DependentUpon>
     </Compile>
     <Compile Include="SetupFinancialYear.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="SetUpStoreDetails.Designer.vb">
       <DependentUpon>SetUpStoreDetails.vb</DependentUpon>
     </Compile>
     <Compile Include="SetUpStoreDetails.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterStock.Designer.vb">
       <DependentUpon>MasterStock.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterStock.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditCustomer.Designer.vb">
       <DependentUpon>EditCustomer.vb</DependentUpon>
     </Compile>
     <Compile Include="EditCustomer.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="SelectSuppProducts.Designer.vb">
       <DependentUpon>SelectSuppProducts.vb</DependentUpon>
     </Compile>
     <Compile Include="SelectSuppProducts.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditSuppCat.Designer.vb">
       <DependentUpon>EditSuppCat.vb</DependentUpon>
     </Compile>
     <Compile Include="EditSuppCat.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="EditFSubAccount.Designer.vb">
-      <DependentUpon>EditFSubAccount.vb</DependentUpon>
-    </Compile>
-    <Compile Include="EditFSubAccount.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditFAccount.Designer.vb">
       <DependentUpon>EditFAccount.vb</DependentUpon>
     </Compile>
     <Compile Include="EditFAccount.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditSuppplier.Designer.vb">
       <DependentUpon>EditSuppplier.vb</DependentUpon>
     </Compile>
     <Compile Include="EditSuppplier.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="DetailsSchool.Designer.vb">
       <DependentUpon>DetailsSchool.vb</DependentUpon>
@@ -541,289 +463,240 @@
       <DependentUpon>StockBOH.vb</DependentUpon>
     </Compile>
     <Compile Include="StockBOH.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="StockAdjustments.Designer.vb">
       <DependentUpon>StockAdjustments.vb</DependentUpon>
     </Compile>
     <Compile Include="StockAdjustments.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="StockIBT.Designer.vb">
       <DependentUpon>StockIBT.vb</DependentUpon>
     </Compile>
     <Compile Include="StockIBT.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EoDSale.Designer.vb">
       <DependentUpon>EoDSale.vb</DependentUpon>
     </Compile>
     <Compile Include="EoDSale.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PosDirectCashPay.Designer.vb">
       <DependentUpon>PosDirectCashPay.vb</DependentUpon>
     </Compile>
     <Compile Include="PosDirectCashPay.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSPayChange.Designer.vb">
       <DependentUpon>PoSPayChange.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSPayChange.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSPayments.Designer.vb">
       <DependentUpon>PoSPayments.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSPayments.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSEditLineDisc.Designer.vb">
       <DependentUpon>PoSEditLineDisc.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSEditLineDisc.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSEditInvDisc.Designer.vb">
       <DependentUpon>PoSEditInvDisc.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSEditInvDisc.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSEditMobile.Designer.vb">
       <DependentUpon>PoSEditMobile.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSEditMobile.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSEditCheque.Designer.vb">
       <DependentUpon>PoSEditCheque.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSEditCheque.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSEditCashForeign.Designer.vb">
       <DependentUpon>PoSEditCashForeign.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSEditCashForeign.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSCreditCard.Designer.vb">
       <DependentUpon>PoSCreditCard.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSCreditCard.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSMobile.Designer.vb">
       <DependentUpon>PoSMobile.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSMobile.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSCheque.Designer.vb">
       <DependentUpon>PoSCheque.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSCheque.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSCashForeign.Designer.vb">
       <DependentUpon>PoSCashForeign.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSCashForeign.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSLookup.Designer.vb">
       <DependentUpon>PoSLookup.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSLookup.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="PoSSale.Designer.vb">
       <DependentUpon>PoSSale.vb</DependentUpon>
     </Compile>
     <Compile Include="PoSSale.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="UploadCustomer.Designer.vb">
       <DependentUpon>UploadCustomer.vb</DependentUpon>
     </Compile>
     <Compile Include="UploadCustomer.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="UploadSupplier.Designer.vb">
       <DependentUpon>UploadSupplier.vb</DependentUpon>
     </Compile>
     <Compile Include="UploadSupplier.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="UploadStockMaster.Designer.vb">
       <DependentUpon>UploadStockMaster.vb</DependentUpon>
     </Compile>
     <Compile Include="UploadStockMaster.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="UploadStockAdj.Designer.vb">
       <DependentUpon>UploadStockAdj.vb</DependentUpon>
     </Compile>
     <Compile Include="UploadStockAdj.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterSuppliers.Designer.vb">
       <DependentUpon>MasterSuppliers.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterSuppliers.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterCustomers.Designer.vb">
       <DependentUpon>MasterCustomers.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterCustomers.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterFAccounts.Designer.vb">
       <DependentUpon>MasterFAccounts.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterFAccounts.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterCurrency.Designer.vb">
       <DependentUpon>MasterCurrency.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterCurrency.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditMobileMoney.Designer.vb">
       <DependentUpon>EditMobileMoney.vb</DependentUpon>
     </Compile>
     <Compile Include="EditMobileMoney.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditCreditCard.Designer.vb">
       <DependentUpon>EditCreditCard.vb</DependentUpon>
     </Compile>
     <Compile Include="EditCreditCard.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditBank.Designer.vb">
       <DependentUpon>EditBank.vb</DependentUpon>
     </Compile>
     <Compile Include="EditBank.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterCreditCard.Designer.vb">
       <DependentUpon>MasterCreditCard.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterCreditCard.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterMobileMoney.Designer.vb">
       <DependentUpon>MasterMobileMoney.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterMobileMoney.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterBank.Designer.vb">
       <DependentUpon>MasterBank.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterBank.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditTax.Designer.vb">
       <DependentUpon>EditTax.vb</DependentUpon>
     </Compile>
     <Compile Include="EditTax.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterTax.Designer.vb">
       <DependentUpon>MasterTax.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterTax.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditUoM.Designer.vb">
       <DependentUpon>EditUoM.vb</DependentUpon>
     </Compile>
     <Compile Include="EditUoM.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditStyle.Designer.vb">
       <DependentUpon>EditStyle.vb</DependentUpon>
     </Compile>
     <Compile Include="EditStyle.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditGroup.Designer.vb">
       <DependentUpon>EditGroup.vb</DependentUpon>
     </Compile>
     <Compile Include="EditGroup.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditSize.Designer.vb">
       <DependentUpon>EditSize.vb</DependentUpon>
     </Compile>
     <Compile Include="EditSize.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditDept.Designer.vb">
       <DependentUpon>EditDept.vb</DependentUpon>
     </Compile>
     <Compile Include="EditDept.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditColor.Designer.vb">
       <DependentUpon>EditColor.vb</DependentUpon>
     </Compile>
     <Compile Include="EditColor.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditClass.Designer.vb">
       <DependentUpon>EditClass.vb</DependentUpon>
     </Compile>
     <Compile Include="EditClass.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterSize.Designer.vb">
       <DependentUpon>MasterSize.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterSize.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterUoM.Designer.vb">
       <DependentUpon>MasterUoM.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterUoM.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterColor.Designer.vb">
       <DependentUpon>MasterColor.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterColor.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterStyle.Designer.vb">
       <DependentUpon>MasterStyle.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterStyle.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterClass.Designer.vb">
       <DependentUpon>MasterClass.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterClass.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MasterGroup.Designer.vb">
       <DependentUpon>MasterGroup.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterGroup.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="CustomGroupBox.vb">
-      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Form1.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.vb">
       <DependentUpon>Form1.vb</DependentUpon>
@@ -833,13 +706,11 @@
       <DependentUpon>MasterDepartment.vb</DependentUpon>
     </Compile>
     <Compile Include="MasterDepartment.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MDIBackend.Designer.vb">
       <DependentUpon>MDIBackend.vb</DependentUpon>
     </Compile>
     <Compile Include="MDIBackend.vb">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -1144,10 +1015,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="EditSuppCat.resx">
       <DependentUpon>EditSuppCat.vb</DependentUpon>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="EditFSubAccount.resx">
-      <DependentUpon>EditFSubAccount.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="EditFAccount.resx">
